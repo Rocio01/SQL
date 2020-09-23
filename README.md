@@ -1,7 +1,7 @@
 # SQL
 
 - In this project, I did the SQL Zoo Tutorials 0-9 listed under the “Tutorial Section” and the quizzes listed at the end of each. 
-- the answers are provided in this project.
+- the answers for the quizes are provided in this project.
 
 ## GitHub Repo
 
